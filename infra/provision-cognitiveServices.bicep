@@ -9,10 +9,10 @@ param aoaiModels array = [
     apiVersion: '2023-03-15-preview'
   }
   {
-    name: 'gpt-4-32k'
-    deploymentName: 'model-gpt432k'
-    version: '0314'
-    apiVersion: '2023-03-15-preview'
+    name: 'text-davinci-003'
+    deploymentName: 'model-text-davinci-003'
+    version: '1'
+    apiVersion: '2022-12-1'
   }
 ]
   
